@@ -30,3 +30,7 @@
 2. Levantar servidor
 
 > npm run start:dev
+
+3. Ejecutar seed
+
+> http://localhost:3000/api/seed 
